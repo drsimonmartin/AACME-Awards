@@ -6,3 +6,4 @@ dpd-static-support
 jupyter
 nbserverproxy
 jupyter-plotly-dash
+jupyter_dash
