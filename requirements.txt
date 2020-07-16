@@ -7,3 +7,4 @@ jupyter
 nbserverproxy
 jupyter-plotly-dash
 jupyter_dash
+pandas
